@@ -13,7 +13,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![ReactJS](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React)
-![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS)
+![CSS3](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3)
 
 
 - 🔭 I’m currently working on React Single Page Applications
