@@ -1,4 +1,4 @@
-# 👋  Hi, my name is  ** Mikhail **!
+# 👋  Hi, my name is  **Mikhail**!
 
 ## I'm a beginner *Front-end developer* from Moscow.
 
