@@ -10,7 +10,7 @@
 
 ### Languages and Technologies:
 
-![JAVASCRIPT]
+![JavaScript](https://img.shields.io/badge/-JavaScript-green)
 
 
 - 🔭 I’m currently working on ...
