@@ -16,8 +16,12 @@
 ![CSS3](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3)
 
 
-- 🔭 I’m currently working on React Single Page Applications
-- 🌱 I’m currently learning React JS
+- 🔭 I’m currently working on vanilla JS Single Page Applications, and also
+
+<img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" width=400px>
+
+In "leetcode" path I will place the tasks that I solved on leetcode.com
+
 
 
 - 📫 How to reach me: mihael-85@mail.ru
